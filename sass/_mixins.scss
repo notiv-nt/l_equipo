@@ -1,0 +1,6 @@
+@mixin mw() {
+	width: $main-width;
+	margin: 0 auto;
+	height: 100%;
+	display: block;
+}
